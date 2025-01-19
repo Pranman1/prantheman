@@ -29,7 +29,7 @@ export default function Intro() {
         animate={{opacity: 1, scale: 1 }}
         transition={{type: "tween", delay: 0.1, duration: 0.3}}
         >
-        <h1 className="md:text-9xl sm:text-9xl text-9xl font-bold text-white">
+        <h1 className="md:text-6xl sm:text-6xl text-6xl font-bold text-white">
             Hey! I am Pranav Bhatt
         </h1>
         <div className="Animated">
